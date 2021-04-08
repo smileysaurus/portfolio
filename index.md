@@ -3,6 +3,9 @@
 ![SCI Logo100](https://user-images.githubusercontent.com/76493954/114106775-6a369880-9884-11eb-9a45-67d6a23c3c3d.gif)
 
 
+![Witches100](https://user-images.githubusercontent.com/76493954/114106791-6efb4c80-9884-11eb-8770-5cc0c9c0f7c7.gif)
+
+
 ![Oscar100](https://user-images.githubusercontent.com/76493954/114106787-6dca1f80-9884-11eb-976b-e72fe7123bcc.gif)
 
 ![Hedgehog100](https://user-images.githubusercontent.com/76493954/114106784-6d318900-9884-11eb-8d1f-b2462e475543.gif)
@@ -16,4 +19,4 @@
 ![Pajamas100](https://user-images.githubusercontent.com/76493954/114106788-6dca1f80-9884-11eb-935d-96193033a3db.gif)
 
 
-![Witches100](https://user-images.githubusercontent.com/76493954/114106791-6efb4c80-9884-11eb-8770-5cc0c9c0f7c7.gif)
+
