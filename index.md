@@ -1,5 +1,3 @@
-## SMILEYSAURUS PORTFOLIO
-
 ![SCI Logo100](https://user-images.githubusercontent.com/76493954/114106775-6a369880-9884-11eb-9a45-67d6a23c3c3d.gif)
 
 
