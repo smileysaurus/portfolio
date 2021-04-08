@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## SMILEYSAURUS PORTFOLIO
 
-You can use the [editor on GitHub](https://github.com/smileysaurus/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![SCI Logo100](https://user-images.githubusercontent.com/76493954/114106775-6a369880-9884-11eb-9a45-67d6a23c3c3d.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![Oscar100](https://user-images.githubusercontent.com/76493954/114106787-6dca1f80-9884-11eb-976b-e72fe7123bcc.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Hedgehog100](https://user-images.githubusercontent.com/76493954/114106784-6d318900-9884-11eb-8d1f-b2462e475543.gif)
 
-```markdown
-Syntax highlighted code block
+![Max100](https://user-images.githubusercontent.com/76493954/114106786-6d318900-9884-11eb-8d49-0afe5adbbfbc.gif)
 
-# Header 1
-## Header 2
-### Header 3
+![Lucy100](https://user-images.githubusercontent.com/76493954/114106785-6d318900-9884-11eb-9b48-da9af6bf27bf.gif)
 
-- Bulleted
-- List
+![Pepper100](https://user-images.githubusercontent.com/76493954/114106789-6dca1f80-9884-11eb-9dd5-0ac47501f10a.gif)
 
-1. Numbered
-2. List
+![Pajamas100](https://user-images.githubusercontent.com/76493954/114106788-6dca1f80-9884-11eb-935d-96193033a3db.gif)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smileysaurus/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Witches100](https://user-images.githubusercontent.com/76493954/114106791-6efb4c80-9884-11eb-8770-5cc0c9c0f7c7.gif)
